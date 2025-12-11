@@ -1,0 +1,11 @@
+{
+	"locale": "pt-BR",
+	"strings": {
+		"entrar": "Entrar",
+		"digite seu l": "Digite seu L e clique em entrar",
+        "l nao encontrado": "L não encontrado",
+		"clique no treinamento": "Clique no treinamento desejado para iniciar",
+		"ativar desativar variaveis": "Como ativar e desativar variáveis em cada receita",
+		"atualizar sku": "Como atualizar o SKU de uma receita existente"
+	}
+}

@@ -1,0 +1,12 @@
+
+{
+    "locale": "zh-CN",
+    "strings": {
+        "entrar": "登录",
+        "digite seu l": "输入您的 L 并点击登录",
+        "l nao encontrado": "未找到 L",
+        "clique no treinamento": "点击所需的培训以开始",
+        "ativar desativar variaveis": "如何在每个配方中启用和禁用变量",
+        "atualizar sku": "如何更新现有配方的 SKU"
+    }
+}
