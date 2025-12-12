@@ -1362,6 +1362,8 @@ self.C3_ExpressionFuncs = [
 			const v0 = p._GetNode(0).GetVar();
 			return () => v0.GetValue();
 		},
+		() => "https://l24427.github.io/ativar_desativar_variavel_receitas/",
+		() => "https://l24427.github.io/atualizar_SKU/",
 		() => "idioma Selecionado",
 		() => "pt-BR",
 		() => "en-US",

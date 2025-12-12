@@ -32,6 +32,7 @@ self.C3_GetObjectRefTable = function () {
 		C3.Plugins.TextBox.Acts.SetCSSStyle,
 		C3.Plugins.TextBox.Cnds.OnClicked,
 		C3.Plugins.Text.Acts.SetText,
+		C3.Plugins.Browser.Acts.GoToURL,
 		C3.Plugins.System.Cnds.CompareVar,
 		C3.Plugins.AJAX.Acts.RequestFile,
 		C3.Plugins.AJAX.Cnds.OnComplete,
