@@ -1353,6 +1353,7 @@ self.C3_ExpressionFuncs = [
 		() => "CARLOS ROBERTO DUARTE",
 		() => "l10835",
 		() => "EDER JUNIOR INACIO SILVA",
+		() => "FERNANDO HATSUO SIMOES ENDO",
 		p => {
 			const n0 = p._GetNode(0);
 			return () => n0.ExpObject();
