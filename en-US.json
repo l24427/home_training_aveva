@@ -3,8 +3,8 @@
     "locale": "en-US",
     "strings": {
         "entrar": "Sign in",
-        "digite seu l": "Enter your L and click sign in",
-        "l nao encontrado": "L not found",
+        "digite seu l": "Type your login, for example: l12345",
+        "l nao encontrado": "Login not found",
         "clique no treinamento": "Click the desired training to start",
         "ativar desativar variaveis": "How to enable and disable variables in each recipe",
         "atualizar sku": "How to update the SKU of an existing recipe"
