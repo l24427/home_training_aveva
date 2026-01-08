@@ -6,6 +6,7 @@
         "l nao encontrado": "Login não encontrado",
 		"clique no treinamento": "Clique no treinamento desejado para iniciar",
 		"ativar desativar variaveis": "Como ativar e desativar variáveis em cada receita",
-		"atualizar sku": "Como atualizar o SKU de uma receita existente"
+		"atualizar sku": "Como atualizar o SKU de uma receita existente",
+		"tx10": "Como cadastrar variáveis de processo"
 	}
 }

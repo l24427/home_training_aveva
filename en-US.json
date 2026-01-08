@@ -7,6 +7,7 @@
         "l nao encontrado": "Login not found",
         "clique no treinamento": "Click the desired training to start",
         "ativar desativar variaveis": "How to enable and disable variables in each recipe",
-        "atualizar sku": "How to update the SKU of an existing recipe"
+        "atualizar sku": "How to update the SKU of an existing recipe",
+        "tx10": "How to register process variables"
     }
 }
