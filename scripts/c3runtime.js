@@ -1422,6 +1422,10 @@ self.C3_ExpressionFuncs = [
 			const f0 = p._GetNode(0).GetBoundMethod();
 			return () => f0("atualizar sku");
 		},
+		p => {
+			const f0 = p._GetNode(0).GetBoundMethod();
+			return () => f0("tx10");
+		},
 		() => "English",
 		() => "Chines simplificado",
 		() => "Espanhol",

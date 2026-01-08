@@ -76,6 +76,7 @@ self.C3_JsPropNameTable = [
 	{tradutor: 0},
 	{AJAX: 0},
 	{AF_logo_3: 0},
+	{tx10: 0},
 	{bandeiras: 0},
 	{usuarioAtivo: 0},
 	{IdiomaSelecionado: 0}
@@ -114,5 +115,6 @@ self.InstanceType = {
 	tradutor: class extends self.IInstance {},
 	AJAX: class extends self.IInstance {},
 	AF_logo_3: class extends self.ISpriteInstance {},
+	tx10: class extends self.ITextInstance {},
 	bandeiras: class extends self.ISpriteInstance {}
 }
