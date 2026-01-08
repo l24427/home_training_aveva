@@ -67,6 +67,7 @@ self.C3_JsPropNameTable = [
 	{aveva_: 0},
 	{kimberly_: 0},
 	{bt_entrar: 0},
+	{bg_como_cadastrar_variavel: 0},
 	{inputBox: 0},
 	{Mouse: 0},
 	{Dic_L_usuarios: 0},
@@ -74,6 +75,7 @@ self.C3_JsPropNameTable = [
 	{Navegador: 0},
 	{tradutor: 0},
 	{AJAX: 0},
+	{AF_logo_3: 0},
 	{bandeiras: 0},
 	{usuarioAtivo: 0},
 	{IdiomaSelecionado: 0}
@@ -103,6 +105,7 @@ self.InstanceType = {
 	aveva_: class extends self.ISpriteInstance {},
 	kimberly_: class extends self.ISpriteInstance {},
 	bt_entrar: class extends self.ISpriteInstance {},
+	bg_como_cadastrar_variavel: class extends self.ISpriteInstance {},
 	inputBox: class extends self.ITextInputInstance {},
 	Mouse: class extends self.IInstance {},
 	Dic_L_usuarios: class extends self.IDictionaryInstance {},
@@ -110,5 +113,6 @@ self.InstanceType = {
 	Navegador: class extends self.IInstance {},
 	tradutor: class extends self.IInstance {},
 	AJAX: class extends self.IInstance {},
+	AF_logo_3: class extends self.ISpriteInstance {},
 	bandeiras: class extends self.ISpriteInstance {}
 }
