@@ -51,6 +51,7 @@ self.C3_JsPropNameTable = [
 	{tx_ativar_desativar_variaveis: 0},
 	{ComoAtualizarOSKU: 0},
 	{tx_RobsonSOuza: 0},
+	{ComoCriarNovaReceita: 0},
 	{AF_logo_2: 0},
 	{bt_brasil: 0},
 	{bt_china: 0},
@@ -68,6 +69,7 @@ self.C3_JsPropNameTable = [
 	{kimberly_: 0},
 	{bt_entrar: 0},
 	{bg_como_cadastrar_variavel: 0},
+	{bg_criar_nova_receita_AFC: 0},
 	{inputBox: 0},
 	{Mouse: 0},
 	{Dic_L_usuarios: 0},
@@ -77,6 +79,7 @@ self.C3_JsPropNameTable = [
 	{AJAX: 0},
 	{AF_logo_3: 0},
 	{tx10: 0},
+	{logo_: 0},
 	{bandeiras: 0},
 	{usuarioAtivo: 0},
 	{IdiomaSelecionado: 0}
@@ -91,6 +94,7 @@ self.InstanceType = {
 	tx_ativar_desativar_variaveis: class extends self.ITextInstance {},
 	ComoAtualizarOSKU: class extends self.ITextInstance {},
 	tx_RobsonSOuza: class extends self.ITextInstance {},
+	ComoCriarNovaReceita: class extends self.ITextInstance {},
 	AF_logo_2: class extends self.ISpriteInstance {},
 	bt_brasil: class extends self.ISpriteInstance {},
 	bt_china: class extends self.ISpriteInstance {},
@@ -107,6 +111,7 @@ self.InstanceType = {
 	kimberly_: class extends self.ISpriteInstance {},
 	bt_entrar: class extends self.ISpriteInstance {},
 	bg_como_cadastrar_variavel: class extends self.ISpriteInstance {},
+	bg_criar_nova_receita_AFC: class extends self.ISpriteInstance {},
 	inputBox: class extends self.ITextInputInstance {},
 	Mouse: class extends self.IInstance {},
 	Dic_L_usuarios: class extends self.IDictionaryInstance {},
@@ -116,5 +121,6 @@ self.InstanceType = {
 	AJAX: class extends self.IInstance {},
 	AF_logo_3: class extends self.ISpriteInstance {},
 	tx10: class extends self.ITextInstance {},
+	logo_: class extends self.ISpriteInstance {},
 	bandeiras: class extends self.ISpriteInstance {}
 }

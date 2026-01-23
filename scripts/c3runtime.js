@@ -1391,6 +1391,7 @@ self.C3_ExpressionFuncs = [
 		() => "https://l24427.github.io/ativar_desativar_variavel_receitas/",
 		() => "https://l24427.github.io/atualizar_SKU/",
 		() => "https://l24427.github.io/Como_Cadastrar_Variaveis/",
+		() => "https://l24427.github.io/Create_New_Recipe/",
 		() => "idioma Selecionado",
 		() => "pt-BR",
 		() => "en-US",
@@ -1425,6 +1426,10 @@ self.C3_ExpressionFuncs = [
 		p => {
 			const f0 = p._GetNode(0).GetBoundMethod();
 			return () => f0("tx10");
+		},
+		p => {
+			const f0 = p._GetNode(0).GetBoundMethod();
+			return () => f0("tx11");
 		},
 		() => "English",
 		() => "Chines simplificado",
