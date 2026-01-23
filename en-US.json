@@ -8,6 +8,7 @@
         "clique no treinamento": "Click the desired training to start",
         "ativar desativar variaveis": "How to enable and disable variables in each recipe",
         "atualizar sku": "How to update the SKU of an existing recipe",
-        "tx10": "How to register process variables"
+        "tx10": "How to register process variables",
+        "tx11": "How to Create a New AFC Recipe"
     }
 }

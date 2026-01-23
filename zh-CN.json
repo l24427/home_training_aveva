@@ -8,6 +8,7 @@
         "clique no treinamento": "点击所需的培训以开始",
         "ativar desativar variaveis": "如何在每个配方中启用和禁用变量",
         "atualizar sku": "如何更新现有配方的 SKU",
-        "tx10": "如何注册过程变量"
+        "tx10": "如何注册过程变量",
+        "tx11": "如何创建新的 AFC 配方"
     }
 }
